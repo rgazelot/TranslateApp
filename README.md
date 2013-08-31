@@ -16,6 +16,14 @@ Installation
 - Ensure that the **Developer mode** checkbox in the top right-hand corner is checked.
 - Click **Load unpacked extension…** and upload the extension.
 
+Parameters
+----------
+
+The extension use **Google Translate API**. This API isn't free and you need a Google account to use this API. If you already have a Google Account, then you can visit the [Google APIs console](http://code.google.com/apis/console) to set up a new project and get your API key.
+
+- Create a ``parameters.js`` file and use the same model like `parameters.js.dist`.
+- Set your `apiKey` and your translate language `lang`.
+
 Usage
 -----
 
