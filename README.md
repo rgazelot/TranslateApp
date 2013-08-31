@@ -19,11 +19,13 @@ Installation
 Usage
 -----
 
-Extension is a **background extension**. This means that it is always available on every web pages you'll visite. To use it, just press `Cmd` on **Mac OSX** or `Crtl` on **Windows** and select the word which you want the translate.
+Extension is a **background extension**. This means that it is always available on every web pages you'll visite. To use it, just press `Cmd` on **Mac OSX** or `Crtl` on **Windows** and select **one (or some)** word which you want the translate.
 
 ![Simple table](https://raw.github.com/rgazelot/TranslateApp/master/images/selected_word.png)
 
 You will see appear a little box on the top right corner of your web page with you translate.
 
 ![Simple table](https://raw.github.com/rgazelot/TranslateApp/master/images/popup.png)
+
+**Tips :** you can use the double-clicking mode on a word to select it entirely
 
