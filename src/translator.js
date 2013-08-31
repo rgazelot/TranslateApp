@@ -24,7 +24,7 @@ function translate(query, XAxisPosition, YAxisPosition) {
         $('#translator-app-popup p').text(response.data.translations[0].translatedText);
         $('#translator-app-popup').toggle();
         window.setTimeout(function() {
-            $('#translator-app-popup').fadeOut(200);
-        }, 4000);
+            $('#translator-app-popup').fadeOut(400);
+        }, 6000);
     });
 }
