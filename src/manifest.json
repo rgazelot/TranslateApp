@@ -5,7 +5,7 @@
   "version": "1.0",
   "content_scripts": [
     {
-      "matches": ["file:///*"],
+      "matches": ["*://*/*"],
       "css": ["style.css"],
       "js": ["jquery.js", "parameters.js", "translator.js"]
     }
