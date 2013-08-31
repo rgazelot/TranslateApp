@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Translate App",
+  "description": "This extension provide an easy way to translate via Google API.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["file:///*"],
+      "css": ["style.css"],
+      "js": ["jquery.js", "parameters.js", "translator.js"]
+    }
+  ]
+}

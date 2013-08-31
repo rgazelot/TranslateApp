@@ -1,0 +1,2 @@
+var apiKey = 'yourGoogleApiKey';
+var lang = 'YourTargetedLanguage';
