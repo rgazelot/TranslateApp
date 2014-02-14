@@ -9,5 +9,8 @@
       "css": ["style.css"],
       "js": ["jquery.js", "parameters.js", "translator.js"]
     }
+  ],
+  "web_accessible_resources": [
+    "jquery.js"
   ]
 }
